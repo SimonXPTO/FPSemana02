@@ -1,6 +1,6 @@
 frase=str(input("uma frase pfv? "))
 
-palavras=frase.split(" ")
+palavras=frase.split()
 
 resultado={}
 
